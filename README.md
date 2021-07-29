@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Task Tracking App](https://github.com/vmilkovic/tasker)
 
-- 🌱 I’m currently learning **NextJS, Symfony, Postgres and Docker**
+- 🌱 I’m currently learning **Next.js, Symfony, Postgres and Docker**
 
 - 📫 How to reach me **vedran.milkovic25@gmail.com**
 
