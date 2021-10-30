@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedran</h1>
-<h3 align="center">Bachelor of Mechatronics | Computer Science Student | Web Programmer</h3>
+<h3 align="center">Bachelor of Mechatronics | Computer Science Student | Software Developer</h3>
 
-- 🔭 I’m currently working on [Task Tracking App](https://github.com/vmilkovic/tasker)
-
-- 🌱 I’m currently learning **Next.js, Symfony, Postgres and Docker**
+- 🌱 I’m currently learning **NestJS, TypeScript, Angular, MongoDB and .NET**
 
 - 📫 How to reach me **vedran.milkovic25@gmail.com**
 
